@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.status
+{
+font-size: 18px;
+}
+
+body{
+    background-image:url("background.jpg");
+
+    background-size:cover
+}
+
+#info{
+font-size:18px
+}
+canvas{
+    border-width: 10;
+    border-color: black;
+    border-style:groove;
+    
+}
